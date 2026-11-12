@@ -1,0 +1,1 @@
+module.exports={content:['./dist/index.html'],theme:{extend:{colors:{canvas:'#101722',panel:'#182232',silver:'#eef2f7',muted:'#bdc8d8',cyber:'#adc8e4',line:'#2e3c50'},fontFamily:{sans:['Segoe UI','system-ui','-apple-system','BlinkMacSystemFont','Arial','sans-serif'],mono:['Courier New','monospace']}}},plugins:[]};
